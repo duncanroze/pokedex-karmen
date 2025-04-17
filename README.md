@@ -11,7 +11,7 @@ Le front permet de saisir un numéro de Pokémon, et affiche ses caractéristiqu
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/votre-utilisateur/pokedex-karmen.git
+git clone https://github.com/duncanroze/pokedex-karmen.git
 cd pokedex-karmen
 ```
 
