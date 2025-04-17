@@ -19,9 +19,21 @@ cd pokedex-karmen
 
 ### 2. Lancer les serveurs (front + back)
 
-Depuis la racine du projet :
-
+Installer les dépendances du back
 ```bash
+cd backend
+npm install
+```
+
+Installer les dépendances du front
+```bash
+cd ../frontend
+npm install
+```
+
+Revenir à la racine pour installer les dépendances et lancer les deux serveurs
+```bash
+cd ..
 npm install
 npm run dev
 ```
